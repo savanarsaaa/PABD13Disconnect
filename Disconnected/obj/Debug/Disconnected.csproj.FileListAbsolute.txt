@@ -1,0 +1,10 @@
+D:\Visual Studio\Disconnected\Disconnected\bin\Debug\Disconnected.exe.config
+D:\Visual Studio\Disconnected\Disconnected\bin\Debug\Disconnected.exe
+D:\Visual Studio\Disconnected\Disconnected\bin\Debug\Disconnected.pdb
+D:\Visual Studio\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.AssemblyReference.cache
+D:\Visual Studio\Disconnected\Disconnected\obj\Debug\Disconnected.Form1.resources
+D:\Visual Studio\Disconnected\Disconnected\obj\Debug\Disconnected.Properties.Resources.resources
+D:\Visual Studio\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.GenerateResource.cache
+D:\Visual Studio\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Disconnected\Disconnected\obj\Debug\Disconnected.exe
+D:\Visual Studio\Disconnected\Disconnected\obj\Debug\Disconnected.pdb
